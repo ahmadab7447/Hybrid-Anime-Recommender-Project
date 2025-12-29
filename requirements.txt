@@ -1,0 +1,12 @@
+numpy
+pandas
+seaborn
+matplotlib
+google-cloud-storage
+pyyaml
+ipykernel
+tensorflow
+wordcloud
+joblib
+comet-ml
+dvc
